@@ -1,0 +1,9 @@
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\bin\Debug\EJERCICIO2.exe.config
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\bin\Debug\EJERCICIO2.exe
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\bin\Debug\EJERCICIO2.pdb
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.csprojResolveAssemblyReference.cache
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.Form1.resources
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.Properties.Resources.resources
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.csproj.GenerateResource.Cache
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.exe
+c:\users\okara\documents\visual studio 2012\Projects\EJERCICIO2\EJERCICIO2\obj\Debug\EJERCICIO2.pdb
